@@ -1,0 +1,5 @@
+#!/bin/bash
+gnome-terminal --
+tabs -1 &&
+cd ../target/classes &&
+java edu.maastricht.ginrummy.gameUI.GinRummy

@@ -1,0 +1,34 @@
+.title {
+  -fx-font: 80px Bliss;
+}
+
+.play_bttn {
+    -fx-font: 20px Bliss;
+	-fx-background-color:#2e4d2d;
+	-fx-text-fill: #FFF;
+}
+
+.play_bttn:hover {
+	-fx-background-color:#1b2b1a;
+	-fx-text-fill: #FFF;
+}
+
+.board {
+    -fx-background-color: #FFF;
+}
+
+.upperBoard {
+    -fx-background-color: #2e4d2d;
+}
+
+.lowerBoard {
+    -fx-background-color: #2b472a;
+}
+
+.sideBar {
+    -fx-background-color: #375736;
+}
+
+.test {
+    -fx-background-color: #FF0000;
+}

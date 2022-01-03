@@ -1,0 +1,5 @@
+Agent, Rounds, Game duration
+Greedy, 56.8, 7.60
+DWD, 478.1, 67.72
+Heuristic, 312.8, 74.60
+MonteCarlo, 69.5, 8045.57

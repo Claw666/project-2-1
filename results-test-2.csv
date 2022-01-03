@@ -1,0 +1,21 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: reduceCards"
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000061,0.000021,"s/op",20
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000044,0.000048,"s/op",19
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000018,0.000001,"s/op",18
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000011,0.000000,"s/op",17
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000008,0.000000,"s/op",16
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000007,0.000000,"s/op",15
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000005,0.000000,"s/op",14
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000004,0.000000,"s/op",13
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000003,0.000000,"s/op",12
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000003,0.000000,"s/op",11
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000002,0.000000,"s/op",10
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000002,0.000000,"s/op",9
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000002,0.000000,"s/op",8
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000001,0.000000,"s/op",7
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000001,0.000000,"s/op",6
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000001,0.000000,"s/op",5
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000001,0.000000,"s/op",4
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000001,0.000000,"s/op",3
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000000,0.000000,"s/op",2
+"benchmarks.AdvancedMeldDetectorBenchmark.benchmark","avgt",1,100,0.000000,0.000000,"s/op",1
